@@ -1,0 +1,23 @@
+C:\Users\MARTIN\source\repos\PyCarpinteria\bin\Debug\PyCarpinteria.exe.config
+C:\Users\MARTIN\source\repos\PyCarpinteria\bin\Debug\PyCarpinteria.exe
+C:\Users\MARTIN\source\repos\PyCarpinteria\bin\Debug\PyCarpinteria.pdb
+C:\Users\MARTIN\source\repos\PyCarpinteria\obj\Debug\PyCarpinteria.csproj.AssemblyReference.cache
+C:\Users\MARTIN\source\repos\PyCarpinteria\obj\Debug\PyCarpinteria.Form1.resources
+C:\Users\MARTIN\source\repos\PyCarpinteria\obj\Debug\PyCarpinteria.Properties.Resources.resources
+C:\Users\MARTIN\source\repos\PyCarpinteria\obj\Debug\PyCarpinteria.csproj.GenerateResource.cache
+C:\Users\MARTIN\source\repos\PyCarpinteria\obj\Debug\PyCarpinteria.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\source\repos\PyCarpinteria\obj\Debug\PyCarpinteria.exe
+C:\Users\MARTIN\source\repos\PyCarpinteria\obj\Debug\PyCarpinteria.pdb
+C:\Users\MARTIN\source\repos\PyCarpinteria\obj\Debug\PyCarpinteria.presentacion.Frm_Alta_Presupuesto.resources
+C:\Users\54351\Desktop\CARPINTERIA 25-05\PyCarpinteria\bin\Debug\PyCarpinteria.exe.config
+C:\Users\54351\Desktop\CARPINTERIA 25-05\PyCarpinteria\bin\Debug\PyCarpinteria.exe
+C:\Users\54351\Desktop\CARPINTERIA 25-05\PyCarpinteria\bin\Debug\PyCarpinteria.pdb
+C:\Users\54351\Desktop\CARPINTERIA 25-05\PyCarpinteria\obj\Debug\PyCarpinteria.csproj.AssemblyReference.cache
+C:\Users\54351\Desktop\CARPINTERIA 25-05\PyCarpinteria\obj\Debug\PyCarpinteria.presentacion.Frm_Alta_Presupuesto.resources
+C:\Users\54351\Desktop\CARPINTERIA 25-05\PyCarpinteria\obj\Debug\PyCarpinteria.Form1.resources
+C:\Users\54351\Desktop\CARPINTERIA 25-05\PyCarpinteria\obj\Debug\PyCarpinteria.Properties.Resources.resources
+C:\Users\54351\Desktop\CARPINTERIA 25-05\PyCarpinteria\obj\Debug\PyCarpinteria.csproj.GenerateResource.cache
+C:\Users\54351\Desktop\CARPINTERIA 25-05\PyCarpinteria\obj\Debug\PyCarpinteria.csproj.CoreCompileInputs.cache
+C:\Users\54351\Desktop\CARPINTERIA 25-05\PyCarpinteria\obj\Debug\PyCarpinteria.exe
+C:\Users\54351\Desktop\CARPINTERIA 25-05\PyCarpinteria\obj\Debug\PyCarpinteria.pdb
+C:\Users\54351\Desktop\CARPINTERIA 25-05\PyCarpinteria\obj\Debug\PyCarpinteria.presentacion.FrmConsultarPresupuesto.resources
